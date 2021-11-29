@@ -1,0 +1,9 @@
+#heading
+{
+    margin:1px;
+    display:flex;
+    flex-direction: column;
+    background-color:paleturquoise;
+    border:outset 2px gold;
+    text-align:center;
+}
